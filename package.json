@@ -1,0 +1,14 @@
+{
+  "name": "generatorfunction",
+  "version": "0.0.1",
+  "description": "new GeneratorFunction ([arg1[, arg2[, ...argN]],] functionBody)",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/MatthewMueller/generatorfunction.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
